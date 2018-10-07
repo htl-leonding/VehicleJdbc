@@ -45,7 +45,7 @@ public class VehicleTest {
         }
     }
 
-    @Ignore
+    //@Ignore
     @Test
     public void ddl() {
         try {
