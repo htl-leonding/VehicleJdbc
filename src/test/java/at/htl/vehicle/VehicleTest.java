@@ -11,6 +11,9 @@ import static junit.framework.TestCase.fail;
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.MatcherAssert.assertThat;
 
+/**
+ * Testklasse für JDBC-Zugriff
+ */
 public class VehicleTest {
 
     public static final String DRIVER_STRING = "org.apache.derby.jdbc.ClientDriver";
